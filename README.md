@@ -22,6 +22,11 @@ When in the console (if it opened) use the command:
 
 to run the tests. If this is your first time using SBT you'll need internet connetion and this first execution might take time downloading the whole interwebs.
 
+### GETTING HELP
+
+If you find issues and get stuck, please ask away on github-issues or 
+join the discussions at http://www.meetup.com/Scala-Developers-Barcelona/ 
+
 ### IDE
 
 Once you are certain sbt runs and tests are all green, make sure you get yourself 
